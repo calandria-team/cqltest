@@ -1,0 +1,2 @@
+# cqltest
+gocql test project
